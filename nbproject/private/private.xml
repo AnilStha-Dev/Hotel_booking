@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="23">
+        <file>
+            <url>src/Pages/Reception3.java</url>
+            <bookmark id="20">
+                <name/>
+                <line>138</line>
+                <key/>
+            </bookmark>
+            <bookmark id="21">
+                <name/>
+                <line>615</line>
+                <key/>
+            </bookmark>
+            <bookmark id="19">
+                <name/>
+                <line>1182</line>
+                <key/>
+            </bookmark>
+            <bookmark id="17">
+                <name/>
+                <line>1190</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/Pages/StaffI.java</url>
+            <bookmark id="23">
+                <name/>
+                <line>219</line>
+                <key/>
+            </bookmark>
+            <bookmark id="22">
+                <name/>
+                <line>297</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/Rep_Registration.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Pages/Reception3.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Pages/Registration1.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Pages/Staff_Registration.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/Booking_view_data.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/HotelService_DataStore/Staff_Service_add.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/Rep_makeBooking.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Pages/Customer.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Database/JDBC_booking.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Pages/StaffI.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Database/ServiceJDBC.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/HotelService_DataStore/Staff_Service_Table.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/CustomerAndBooking_DataStore/Booking_data.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/Rep_makeBooking_table.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Regular_Expression/RegularExpression.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Database/StaffJDBC.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/CustomerBook.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/Rep_update.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/BookingDetails_update.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/Rep_updateCustomer.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/HotelService_DataStore/ServiceCustDetails.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/HotelService_DataStore/ServiceData.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/HotelService_DataStore/Staff_Data.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Reception_DataStore/Rep_Bupdate.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Pages/Home.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Database/ReceptionJDBC.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/Staff_Data.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Pages/Staff_Login.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/CustomerAndBooking_DataStore/Customer_Data.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Database/JDBC_customer.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/CustomerAndBooking_DataStore/CustomerBook.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/Booking_data.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Pages/Receptionist_Login.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/CustomerAndBooking_DataStore/BookingDetails_update.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/CustomerAndBooking_DataStore/Booking_view_data.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Pages/Recep_registration.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/classes/Global.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Pages/Login1.java</file>
+            <file>file:/C:/Users/raaz4/OneDrive/Desktop/Hotel%20Management%20System/src/Data/Customer_Data.java</file>
+        </group>
+    </open-files>
+</project-private>
